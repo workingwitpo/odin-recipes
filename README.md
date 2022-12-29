@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project I will be working on to demonstrate what I have learned in HTML. CSS elements will be added later
